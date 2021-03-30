@@ -13,6 +13,7 @@ In this project I demonstrated the ability to design classes using OOP, organize
 - Data models will be used to represent the domain that we're using within the system.
   
 ```User Scenarios```
+
 _The application provides four user scenarios:_
 - Creating a customer account. The user needs to first create a customer account before they can create a reservation.
   

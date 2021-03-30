@@ -3,7 +3,7 @@ Designing and implementing a simple hotel reservation program using CLI and Coll
 The hotel reservation application will allow customers to find and book a hotel room based on room availability. 
 In this project I demonstrated the ability to design classes using OOP, organize and process data with collections, and use common Java types.
 
-``### The app will be separated into the following layers:``
+### The app will be separated into the following layers:
   -User interface (UI), including a main menu for the users who want to book a room, and an admin menu for administrative functions.
  
   -Resources will act as our Application Programming Interface (API) to UI.
@@ -12,7 +12,7 @@ In this project I demonstrated the ability to design classes using OOP, organize
   
   -Data models will be used to represent the domain that we're using within the system.
   
-``### User Scenarios``
+### User Scenarios
 ``The application provides four user scenarios:``
 
   -Creating a customer account. The user needs to first create a customer account before they can create a reservation.
